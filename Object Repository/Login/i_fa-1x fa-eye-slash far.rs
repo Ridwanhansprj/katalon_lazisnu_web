@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_fa-1x fa-eye-slash far</name>
+   <tag></tag>
+   <elementGuidId>884029bc-6864-4268-9caf-9e653f168535</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-1x.fa-eye-slash.far</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c7c8c5a9-4480-4463-b879-b2f8b629f270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-1x fa-eye-slash far</value>
+      <webElementGuid>93dd639c-e129-4c10-8bb7-d6913b262995</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[1]/app-auth[1]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col d-flex justify-content-center&quot;]/div[1]/app-login[1]/div[1]/form[@class=&quot;mt-4 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;mb-3&quot;]/div[1]/div[@class=&quot;position-absolute&quot;]/i[@class=&quot;fa-1x fa-eye-slash far&quot;]</value>
+      <webElementGuid>55f4fc62-ba73-4250-bf3e-7ac3c6c71f6e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>10611c25-5e8e-47ca-a1b6-d84f490e64f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

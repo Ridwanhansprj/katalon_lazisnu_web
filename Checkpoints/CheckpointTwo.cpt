@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>CheckpointTwo</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/Login_Internal</source-url>
+   </source-info>
+   <taken-date>2024-01-29T14:23:18.516+07:00</taken-date>
+   <column-names>
+      <column-name>Username</column-name>
+      <column-name>Password</column-name>
+      <column-name>Confirm</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "lazisnuadmlv1@gmail.com",
+      "checked": true
+    },
+    {
+      "value": "Qawsedrf123!",
+      "checked": true
+    },
+    {
+      "value": "Appointment Confirm",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

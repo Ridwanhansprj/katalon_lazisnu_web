@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MASUK</name>
+   <tag></tag>
+   <elementGuidId>a59ab746-79ce-44fb-bc74-9b648dd81bd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[normalize-space()='MASUK'])[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>577788de-c77d-4c07-8e1b-92243a824dc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MASUK</value>
+      <webElementGuid>93722cda-86d7-45f2-8ce5-e699c2d67ad9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/div[1]/app-auth[1]/div[@class=&quot;row align-items-center&quot;]/div[@class=&quot;col d-flex justify-content-center&quot;]/div[1]/app-login[1]/div[1]/form[@class=&quot;mt-4 ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;d-grid&quot;]/button[@class=&quot;btn btn-primary btn-lg&quot;]/span[1]</value>
+      <webElementGuid>2ca1ed3e-d141-4745-81f4-3581e184669d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>a456cb19-92a3-4b58-b7d5-7202984788c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MASUK' or . = 'MASUK')]</value>
+      <webElementGuid>87302962-0234-4f9d-8394-407d7c9ce3c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
